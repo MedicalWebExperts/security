@@ -1,0 +1,4 @@
+Contact: mailto:security@medicalwebexperts.com
+Expires: 2027-06-24T11:06:00Z
+Encryption: https://medicalwebexperts.github.io/security/publickey.asc
+Preferred-Languages: en, es
